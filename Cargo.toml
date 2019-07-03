@@ -5,3 +5,13 @@ authors = ["cesar.gusukuma"]
 edition = "2018"
 
 [dependencies]
+actix-web = "1.0.3"
+
+bytes = "0.4"
+futures = "0.1"
+env_logger = "0.6.2"
+
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
+json = "0.11.14"
