@@ -1,0 +1,7 @@
+[package]
+name = "tabril-server"
+version = "0.1.0"
+authors = ["cesar.gusukuma"]
+edition = "2018"
+
+[dependencies]
